@@ -30,8 +30,8 @@ h1
 	.sec
 	{
 		float: left;
-		width: 32.33%;
-		margin: 0.5%;
+		width: 30.33%;
+		margin: 1.5%;
 	}
 }
 
@@ -40,14 +40,14 @@ h1
 	.section1,.section2
 	{
 		float: left;
-		width: 48%;
-		margin: 1%;
+		width: 47%;
+		margin: 1.5%;
 	}
 
 	.section3
 	{
-		width: 98%;
-		margin: 1%;
+		width: 97%;
+		margin: 1.5%;
 		clear: left;
 	}
 
@@ -58,8 +58,8 @@ h1
 {
 	.sec
 	{
-		width: 98%;
-		margin: 1%;
+		width: 97%;
+		margin: 1.5%;
 	}
 }
 
@@ -83,8 +83,8 @@ h1
 	border: 1px solid black;
 	position: relative;
 	top: 0;
-	left: 50%;
-	width: 50%;
+	left: 70%;
+	width: 30%;
 	text-align: center;
 	font-size: 125%;
 }
